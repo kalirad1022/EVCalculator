@@ -296,9 +296,9 @@ public class projecEVCalculator {
 		File SrcFile=scrShot.getScreenshotAs(OutputType.FILE);
 		
 		
+		System.out.println("Vehicle list created");
 		
-		
-		//driver.close();			
+		driver.close();			
 				
 	}
 
