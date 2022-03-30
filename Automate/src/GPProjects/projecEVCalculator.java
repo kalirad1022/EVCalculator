@@ -298,7 +298,7 @@ public class projecEVCalculator {
 		
 		System.out.println("Vehicle list created");
 		
-		driver.close();			
+		//driver.close();			
 				
 	}
 
